@@ -68,18 +68,4 @@ Welcome to the AtonixCorp Community Social Media project! This platform is desig
 - Option for users to provide feedback on the platform and suggest new features.
 - Regular surveys and polls to gauge user satisfaction and needs.
 
-## Summary
-These features are designed to create an engaging, interactive, and safe environment for users. Depending on the scope of your project, you can implement these features incrementally or prioritize them based on community feedback and development resources.
 
-Feel free to add or modify any features to better align with your vision for the AtonixCorp community social media platform!
-
-## Getting Started
-(Include instructions for setting up the project, prerequisites, installation, etc.)
-
-## Contributing
-
-
-## Community
-
-
-##License
